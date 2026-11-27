@@ -5,5 +5,5 @@ Some references that I used while implementing hangman game:
 https://www.youtube.com/watch?v=m4nEnsavl6w
 https://www.youtube.com/watch?v=JNXmCOumNw0
 
-removing this TEXT soon from this REPO as I'm testing github activity for CMPUT project
+Edited a README of an old public repo for 404
 
